@@ -1,0 +1,52 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/masha/OneDrive/Desktop
+vcounter
+Z0 !s110 1637747210
+!i10b 1
+!s100 GFO2>Y^Pn7AX:c1j>cDSB1
+Id_=EKjcJZ^8e_1A3j6VOW3
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/masha/OneDrive/Desktop/my verilog/myveriloglab4/4bitcount/simulation
+w1637747060
+8C:/Users/masha/OneDrive/Desktop/my verilog/myveriloglab4/4bitcount/RTLcode/counter.v
+FC:/Users/masha/OneDrive/Desktop/my verilog/myveriloglab4/4bitcount/RTLcode/counter.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1637747209.000000
+!s107 C:/Users/masha/OneDrive/Desktop/my verilog/myveriloglab4/4bitcount/RTLcode/counter.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/masha/OneDrive/Desktop/my verilog/myveriloglab4/4bitcount/RTLcode/counter.v|
+!i113 1
+Z4 o-work work
+Z5 tCvgOpt 0
+vcounter_tb
+R0
+!i10b 1
+!s100 N<b6N7E8Z7BUSOj2GiLCz0
+ISOc6Hm?beZQID7_@DZMBJ0
+R1
+R2
+w1637747202
+8C:/Users/masha/OneDrive/Desktop/my verilog/myveriloglab4/4bitcount/testbench/counter_tb.v
+FC:/Users/masha/OneDrive/Desktop/my verilog/myveriloglab4/4bitcount/testbench/counter_tb.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1637747210.000000
+!s107 C:/Users/masha/OneDrive/Desktop/my verilog/myveriloglab4/4bitcount/testbench/counter_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/masha/OneDrive/Desktop/my verilog/myveriloglab4/4bitcount/testbench/counter_tb.v|
+!i113 1
+R4
+R5

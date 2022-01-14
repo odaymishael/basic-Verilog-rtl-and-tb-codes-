@@ -1,0 +1,16 @@
+{C:/Users/masha/OneDrive/Desktop/my verilog/myveriloglab1/mux4/RTLcode/mux4_rtl.v} {1 {vlog -work work -stats=none {C:\Users\masha\OneDrive\Desktop\my verilog\myveriloglab1\mux4\RTLcode\mux4_rtl.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module mux2_rtl
+-- Compiling module mux4_rtl
+
+Top level modules:
+	mux4_rtl
+
+} {} {}} {C:/Users/masha/OneDrive/Desktop/my verilog/myveriloglab1/mux4/testbench/module mux4_rtl_tb.v} {1 {vlog -work work -stats=none {C:\Users\masha\OneDrive\Desktop\my verilog\myveriloglab1\mux4\testbench\module mux4_rtl_tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module mux4_rtl_tb
+
+Top level modules:
+	mux4_rtl_tb
+
+} {} {}}

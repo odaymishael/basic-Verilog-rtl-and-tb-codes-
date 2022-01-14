@@ -1,0 +1,31 @@
+|mux4_rtl
+s1 => s1.IN1
+s0 => s0.IN2
+d3 => d3.IN1
+d2 => d2.IN1
+d1 => d1.IN1
+d0 => d0.IN1
+Y <= mux2_rtl:muxthree.Y
+
+
+|mux4_rtl|mux2_rtl:muxone
+d1 => Y.DATAB
+d0 => Y.DATAA
+s => Decoder0.IN0
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|mux4_rtl|mux2_rtl:muxtwo
+d1 => Y.DATAB
+d0 => Y.DATAA
+s => Decoder0.IN0
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|mux4_rtl|mux2_rtl:muxthree
+d1 => Y.DATAB
+d0 => Y.DATAA
+s => Decoder0.IN0
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+
+

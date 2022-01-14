@@ -1,0 +1,21 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Setup 'rdclk'
+Slack : -6.141
+TNS   : -87.671
+
+Type  : Hold 'rdclk'
+Slack : 1.828
+TNS   : 0.000
+
+Type  : Minimum Pulse Width 'rdclk'
+Slack : -2.289
+TNS   : -2.289
+
+Type  : Minimum Pulse Width 'wrclk'
+Slack : -2.289
+TNS   : -2.289
+
+------------------------------------------------------------

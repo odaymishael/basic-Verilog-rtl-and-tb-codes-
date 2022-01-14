@@ -1,0 +1,12 @@
+
+module sr(q, qbar, s, r );
+  
+
+	output q;
+   output qbar;
+   input  s;
+   input  r;
+
+   nor (qbar, s, q);
+   nor (q, r, qbar);
+endmodule 

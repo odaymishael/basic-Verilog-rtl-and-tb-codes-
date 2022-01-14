@@ -1,0 +1,1 @@
+Warning (10268): Verilog HDL information at df.v(9): always construct contains both blocking and non-blocking assignments File: C:/Users/masha/OneDrive/Desktop/my verilog/myveriloglab4/dflipflop/RTLcode/df.v Line: 9

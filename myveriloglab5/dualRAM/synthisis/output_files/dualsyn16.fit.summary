@@ -1,0 +1,11 @@
+Fitter Status : Successful - Fri Nov 26 21:32:16 2021
+Quartus Prime Version : 17.1.0 Build 590 10/25/2017 SJ Lite Edition
+Revision Name : dualsyn16
+Top-level Entity Name : dualsyn16
+Family : MAX V
+Device : 5M570ZM100C4
+Timing Models : Final
+Total logic elements : 169 / 570 ( 30 % )
+Total pins : 28 / 74 ( 38 % )
+Total virtual pins : 0
+UFM blocks : 0 / 1 ( 0 % )

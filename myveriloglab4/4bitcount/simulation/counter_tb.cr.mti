@@ -1,0 +1,15 @@
+{C:/Users/masha/OneDrive/Desktop/my verilog/myveriloglab4/4bitcount/testbench/counter_tb.v} {1 {vlog -work work -stats=none {C:/Users/masha/OneDrive/Desktop/my verilog/myveriloglab4/4bitcount/testbench/counter_tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module counter_tb
+
+Top level modules:
+	counter_tb
+
+} {} {}} {C:/Users/masha/OneDrive/Desktop/my verilog/myveriloglab4/4bitcount/RTLcode/counter.v} {1 {vlog -work work -stats=none {C:/Users/masha/OneDrive/Desktop/my verilog/myveriloglab4/4bitcount/RTLcode/counter.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module counter
+
+Top level modules:
+	counter
+
+} {} {}}

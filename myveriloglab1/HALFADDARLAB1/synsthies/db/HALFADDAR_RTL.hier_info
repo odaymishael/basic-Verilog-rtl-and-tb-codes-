@@ -1,0 +1,7 @@
+|HALFADDAR_RTL
+in_1[0] => Decoder0.IN1
+in_1[1] => Decoder0.IN0
+S <= S.DB_MAX_OUTPUT_PORT_TYPE
+C <= Decoder0.DB_MAX_OUTPUT_PORT_TYPE
+
+

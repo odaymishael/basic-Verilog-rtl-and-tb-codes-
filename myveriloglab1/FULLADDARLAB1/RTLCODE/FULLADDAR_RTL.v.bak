@@ -1,0 +1,9 @@
+module FULLADDAR_RTL (A,B,Cin,S,Cout);
+
+input (A,B,Cin); 
+output (S,Cout);
+
+assign S=Cin^A^B ;
+assign Cout=((A^B)&Cin)|(A&B);
+
+endmodule 

@@ -1,0 +1,52 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/masha/OneDrive/Desktop
+vencoder_rtl
+!s110 1636628582
+!i10b 1
+!s100 A7HKHS^bUPH5:_FFB<55W2
+Io<CebE?m4870m0bSVKoCb0
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+Z1 dC:/Users/masha/OneDrive/Desktop/my verilog/myveriloglab1/encoder/simulation
+w1636628573
+8C:/Users/masha/OneDrive/Desktop/my verilog/myveriloglab1/encoder/rtl/encoder_rtl.v
+FC:/Users/masha/OneDrive/Desktop/my verilog/myveriloglab1/encoder/rtl/encoder_rtl.v
+L0 2
+Z2 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z3 !s108 1636628582.000000
+!s107 C:/Users/masha/OneDrive/Desktop/my verilog/myveriloglab1/encoder/rtl/encoder_rtl.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/masha/OneDrive/Desktop/my verilog/myveriloglab1/encoder/rtl/encoder_rtl.v|
+!i113 1
+Z4 o-work work
+Z5 tCvgOpt 0
+vencoder_rtl_tb
+!s110 1636628583
+!i10b 1
+!s100 7ajmVQ_9gMbIG6^oGgRUg3
+IlOXTU2@]hR7NBFA_C6R<>1
+R0
+R1
+w1636626821
+8C:/Users/masha/OneDrive/Desktop/my verilog/myveriloglab1/encoder/test bench/module encoder_rtl_tb .v
+FC:/Users/masha/OneDrive/Desktop/my verilog/myveriloglab1/encoder/test bench/module encoder_rtl_tb .v
+L0 1
+R2
+r1
+!s85 0
+31
+R3
+!s107 C:/Users/masha/OneDrive/Desktop/my verilog/myveriloglab1/encoder/test bench/module encoder_rtl_tb .v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/masha/OneDrive/Desktop/my verilog/myveriloglab1/encoder/test bench/module encoder_rtl_tb .v|
+!i113 1
+R4
+R5

@@ -1,0 +1,7 @@
+|sr
+s => comb.IN0
+r => comb.IN1
+q <= q.DB_MAX_OUTPUT_PORT_TYPE
+qbar <= comb.DB_MAX_OUTPUT_PORT_TYPE
+
+

@@ -1,0 +1,54 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/masha/OneDrive/Desktop
+vHALFADDAR_RTL
+Z0 !s110 1636134921
+!i10b 1
+!s100 ]_UJLbE^2S?R1KZidAi>J3
+I@zI=gmkoO:L4[OTFC9QCA3
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/masha/OneDrive/Desktop/my verilog/myveriloglab1/simulation
+w1636134055
+8C:/Users/masha/OneDrive/Desktop/my verilog/myveriloglab1/LAB1/RTLCODE/HALFADDAR_RTL.v
+FC:/Users/masha/OneDrive/Desktop/my verilog/myveriloglab1/LAB1/RTLCODE/HALFADDAR_RTL.v
+L0 36
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1636134920.000000
+!s107 C:/Users/masha/OneDrive/Desktop/my verilog/myveriloglab1/LAB1/RTLCODE/HALFADDAR_RTL.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/masha/OneDrive/Desktop/my verilog/myveriloglab1/LAB1/RTLCODE/HALFADDAR_RTL.v|
+!i113 1
+Z4 o-work work
+Z5 tCvgOpt 0
+n@h@a@l@f@a@d@d@a@r_@r@t@l
+vHALFADDAR_RTL_tb
+R0
+!i10b 1
+!s100 `z[Y60C]OSE>K8^f=ZoNW1
+IakB?QTbjA=kW?9>gP=75d1
+R1
+R2
+w1636134917
+8C:/Users/masha/OneDrive/Desktop/my verilog/myveriloglab1/LAB1/TESTBENCHCODE/HALFADDAR_RTL_tb.v
+FC:/Users/masha/OneDrive/Desktop/my verilog/myveriloglab1/LAB1/TESTBENCHCODE/HALFADDAR_RTL_tb.v
+L0 26
+R3
+r1
+!s85 0
+31
+!s108 1636134921.000000
+!s107 C:/Users/masha/OneDrive/Desktop/my verilog/myveriloglab1/LAB1/TESTBENCHCODE/HALFADDAR_RTL_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/masha/OneDrive/Desktop/my verilog/myveriloglab1/LAB1/TESTBENCHCODE/HALFADDAR_RTL_tb.v|
+!i113 1
+R4
+R5
+n@h@a@l@f@a@d@d@a@r_@r@t@l_tb

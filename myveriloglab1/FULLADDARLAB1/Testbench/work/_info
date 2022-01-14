@@ -1,0 +1,76 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/masha/OneDrive/Desktop
+vFULLADDAR_RTL
+Z0 !s110 1636276898
+!i10b 1
+!s100 EJQfl68hLILYLk[<10a0`0
+IY8aD`Z5lc9YF02dDZF;VT2
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/masha/OneDrive/Desktop/my verilog/myveriloglab1/FULLADDARLAB1/Testbench
+Z3 w1636275212
+Z4 8C:/Users/masha/OneDrive/Desktop/my verilog/myveriloglab1/FULLADDARLAB1/RTLCODE/FULLADDAR_RTL.v
+Z5 FC:/Users/masha/OneDrive/Desktop/my verilog/myveriloglab1/FULLADDARLAB1/RTLCODE/FULLADDAR_RTL.v
+L0 33
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1636276898.000000
+Z8 !s107 C:/Users/masha/OneDrive/Desktop/my verilog/myveriloglab1/FULLADDARLAB1/RTLCODE/FULLADDAR_RTL.v|
+Z9 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/masha/OneDrive/Desktop/my verilog/myveriloglab1/FULLADDARLAB1/RTLCODE/FULLADDAR_RTL.v|
+!i113 1
+Z10 o-work work
+Z11 tCvgOpt 0
+n@f@u@l@l@a@d@d@a@r_@r@t@l
+vFULLADDAR_RTL_tb
+R0
+!i10b 1
+!s100 V9zTGJKc`G@af8khkZ6K^2
+IbL_=:g033IHo`;P7Q96551
+R1
+R2
+w1636276894
+8C:/Users/masha/OneDrive/Desktop/my verilog/myveriloglab1/FULLADDARLAB1/Testbench/FULLADDAR_RTL_tb.v
+FC:/Users/masha/OneDrive/Desktop/my verilog/myveriloglab1/FULLADDARLAB1/Testbench/FULLADDAR_RTL_tb.v
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/masha/OneDrive/Desktop/my verilog/myveriloglab1/FULLADDARLAB1/Testbench/FULLADDAR_RTL_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/masha/OneDrive/Desktop/my verilog/myveriloglab1/FULLADDARLAB1/Testbench/FULLADDAR_RTL_tb.v|
+!i113 1
+R10
+R11
+n@f@u@l@l@a@d@d@a@r_@r@t@l_tb
+vHALFADDAR_RTL
+R0
+!i10b 1
+!s100 Gcmc`_LkI6;non@`B[0Bl2
+I:?h0BSnBY;JYMKl><hCOz1
+R1
+R2
+R3
+R4
+R5
+L0 23
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+n@h@a@l@f@a@d@d@a@r_@r@t@l

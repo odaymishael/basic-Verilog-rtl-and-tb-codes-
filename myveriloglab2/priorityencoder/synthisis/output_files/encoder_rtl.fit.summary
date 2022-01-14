@@ -1,0 +1,11 @@
+Fitter Status : Successful - Wed Nov 17 08:36:26 2021
+Quartus Prime Version : 17.1.0 Build 590 10/25/2017 SJ Lite Edition
+Revision Name : encoder_rtl
+Top-level Entity Name : encoder_rtl
+Family : MAX V
+Device : 5M40ZE64C4
+Timing Models : Final
+Total logic elements : 5 / 40 ( 13 % )
+Total pins : 11 / 54 ( 20 % )
+Total virtual pins : 0
+UFM blocks : 0 / 1 ( 0 % )

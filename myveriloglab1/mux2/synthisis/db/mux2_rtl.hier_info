@@ -1,0 +1,8 @@
+|mux2_rtl
+D[0] => Selector0.IN5
+D[1] => ~NO_FANOUT~
+S[0] => Equal0.IN3
+S[1] => Equal0.IN2
+Y <= Selector0.DB_MAX_OUTPUT_PORT_TYPE
+
+

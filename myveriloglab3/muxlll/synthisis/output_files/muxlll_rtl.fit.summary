@@ -1,0 +1,11 @@
+Fitter Status : Successful - Wed Nov 17 15:46:29 2021
+Quartus Prime Version : 17.1.0 Build 590 10/25/2017 SJ Lite Edition
+Revision Name : muxlll_rtl
+Top-level Entity Name : muxlll_rtl
+Family : MAX V
+Device : 5M40ZM64C4
+Timing Models : Final
+Total logic elements : 2 / 40 ( 5 % )
+Total pins : 7 / 30 ( 23 % )
+Total virtual pins : 0
+UFM blocks : 0 / 1 ( 0 % )

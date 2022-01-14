@@ -1,0 +1,164 @@
+ -- Copyright (C) 2017  Intel Corporation. All rights reserved.
+ -- Your use of Intel Corporation's design tools, logic functions 
+ -- and other software and tools, and its AMPP partner logic 
+ -- functions, and any output files from any of the foregoing 
+ -- (including device programming or simulation files), and any 
+ -- associated documentation or information are expressly subject 
+ -- to the terms and conditions of the Intel Program License 
+ -- Subscription Agreement, the Intel Quartus Prime License Agreement,
+ -- the Intel FPGA IP License Agreement, or other applicable license
+ -- agreement, including, without limitation, that your use is for
+ -- the sole purpose of programming logic devices manufactured by
+ -- Intel and sold by Intel or its authorized distributors.  Please
+ -- refer to the applicable agreement for further details.
+ -- 
+ -- This is a Quartus Prime output file. It is for reporting purposes only, and is
+ -- not intended for use as a Quartus Prime input file. This file cannot be used
+ -- to make Quartus Prime pin assignments - for instructions on how to make pin
+ -- assignments, please see Quartus Prime help.
+ ---------------------------------------------------------------------------------
+
+
+
+ ---------------------------------------------------------------------------------
+ -- NC            : No Connect. This pin has no internal connection to the device.
+ -- DNU           : Do Not Use. This pin MUST NOT be connected.
+ -- VCCINT        : Dedicated power pin, which MUST be connected to VCC  (1.8V).
+ -- VCCIO         : Dedicated power pin, which MUST be connected to VCC
+ --                 of its bank.
+ --                  Bank 1:       3.3V
+ --                  Bank 2:       3.3V
+ -- GND           : Dedicated ground pin. Dedicated GND pins MUST be connected to GND.
+ --                  It can also be used to report unused dedicated pins. The connection
+ --                  on the board for unused dedicated pins depends on whether this will
+ --                  be used in a future design. One example is device migration. When
+ --                  using device migration, refer to the device pin-tables. If it is a
+ --                  GND pin in the pin table or if it will not be used in a future design
+ --                  for another purpose the it MUST be connected to GND. If it is an unused
+ --                  dedicated pin, then it can be connected to a valid signal on the board
+ --                  (low, high, or toggling) if that signal is required for a different
+ --                  revision of the design.
+ -- GND+          : Unused input pin. It can also be used to report unused dual-purpose pins.
+ --                  This pin should be connected to GND. It may also be connected  to a
+ --                  valid signal  on the board  (low, high, or toggling)  if that signal
+ --                  is required for a different revision of the design.
+ -- GND*          : Unused  I/O  pin. Connect each pin marked GND* directly to GND
+ --                  or leave it unconnected.
+ -- RESERVED      : Unused I/O pin, which MUST be left unconnected.
+ -- RESERVED_INPUT    : Pin is tri-stated and should be connected to the board.
+ -- RESERVED_INPUT_WITH_WEAK_PULLUP    : Pin is tri-stated with internal weak pull-up resistor.
+ -- RESERVED_INPUT_WITH_BUS_HOLD       : Pin is tri-stated with bus-hold circuitry.
+ -- RESERVED_OUTPUT_DRIVEN_HIGH        : Pin is output driven high.
+ ---------------------------------------------------------------------------------
+
+
+
+ ---------------------------------------------------------------------------------
+ -- Pin directions (input, output or bidir) are based on device operating in user mode.
+ ---------------------------------------------------------------------------------
+
+Quartus Prime Version 17.1.0 Build 590 10/25/2017 SJ Lite Edition
+CHIP  "dasynram"  ASSIGNED TO AN: 5M240ZM100C4
+
+Pin Name/Usage               : Location  : Dir.   : I/O Standard      : Voltage : I/O Bank  : User Assignment
+-------------------------------------------------------------------------------------------------------------
+GND                          : A1        : gnd    :                   :         :           :                
+GND*                         : A2        :        :                   :         : 2         :                
+din[13]                      : A3        : input  : 3.3-V LVTTL       :         : 2         : N              
+din[8]                       : A4        : input  : 3.3-V LVTTL       :         : 2         : N              
+dout[3]                      : A5        : output : 3.3-V LVTTL       :         : 2         : N              
+din[10]                      : A6        : input  : 3.3-V LVTTL       :         : 2         : N              
+dout[4]                      : A7        : output : 3.3-V LVTTL       :         : 2         : N              
+GND*                         : A8        :        :                   :         : 2         :                
+din[14]                      : A9        : input  : 3.3-V LVTTL       :         : 2         : N              
+din[9]                       : A10       : input  : 3.3-V LVTTL       :         : 2         : N              
+GND*                         : A11       :        :                   :         : 2         :                
+din[15]                      : B1        : input  : 3.3-V LVTTL       :         : 1         : N              
+GND*                         : B2        :        :                   :         : 2         :                
+GND*                         : B3        :        :                   :         : 2         :                
+GND*                         : B4        :        :                   :         : 2         :                
+din[7]                       : B5        : input  : 3.3-V LVTTL       :         : 2         : N              
+dout[0]                      : B6        : output : 3.3-V LVTTL       :         : 2         : N              
+din[12]                      : B7        : input  : 3.3-V LVTTL       :         : 2         : N              
+dout[2]                      : B8        : output : 3.3-V LVTTL       :         : 2         : N              
+GND*                         : B9        :        :                   :         : 2         :                
+GND*                         : B10       :        :                   :         : 2         :                
+GND*                         : B11       :        :                   :         : 2         :                
+GND*                         : C1        :        :                   :         : 1         :                
+rdaddr[0]                    : C2        : input  : 3.3-V LVTTL       :         : 1         : N              
+VCCIO2                       : C4        : power  :                   : 3.3V    : 2         :                
+GND*                         : C5        :        :                   :         : 2         :                
+rdaddr[2]                    : C6        : input  : 3.3-V LVTTL       :         : 2         : N              
+dout[9]                      : C7        : output : 3.3-V LVTTL       :         : 2         : N              
+VCCIO2                       : C8        : power  :                   : 3.3V    : 2         :                
+din[0]                       : C10       : input  : 3.3-V LVTTL       :         : 2         : N              
+GND*                         : C11       :        :                   :         : 2         :                
+GND*                         : D1        :        :                   :         : 1         :                
+GND*                         : D2        :        :                   :         : 1         :                
+GND*                         : D3        :        :                   :         : 1         :                
+GND                          : D5        : gnd    :                   :         :           :                
+GND                          : D7        : gnd    :                   :         :           :                
+dout[1]                      : D9        : output : 3.3-V LVTTL       :         : 2         : N              
+GND*                         : D10       :        :                   :         : 2         :                
+GND*                         : D11       :        :                   :         : 2         :                
+wrclk                        : E1        : input  : 3.3-V LVTTL       :         : 1         : N              
+GND*                         : E2        :        :                   :         : 1         :                
+VCCIO1                       : E3        : power  :                   : 3.3V    : 1         :                
+GND                          : E4        : gnd    :                   :         :           :                
+GND                          : E8        : gnd    :                   :         :           :                
+VCCINT                       : E9        : power  :                   : 1.8V    :           :                
+din[2]                       : E10       : input  : 3.3-V LVTTL       :         : 2         : N              
+wr                           : E11       : input  : 3.3-V LVTTL       :         : 2         : N              
+GND*                         : F1        :        :                   :         : 1         :                
+rdclk                        : F2        : input  : 3.3-V LVTTL       :         : 1         : N              
+GND*                         : F3        :        :                   :         : 1         :                
+dout[14]                     : F9        : output : 3.3-V LVTTL       :         : 2         : N              
+rst                          : F10       : input  : 3.3-V LVTTL       :         : 2         : N              
+wraddr[0]                    : F11       : input  : 3.3-V LVTTL       :         : 2         : N              
+GND*                         : G1        :        :                   :         : 1         :                
+rdaddr[1]                    : G2        : input  : 3.3-V LVTTL       :         : 1         : N              
+VCCINT                       : G3        : power  :                   : 1.8V    :           :                
+GND                          : G4        : gnd    :                   :         :           :                
+GND                          : G8        : gnd    :                   :         :           :                
+VCCIO2                       : G9        : power  :                   : 3.3V    : 2         :                
+din[3]                       : G10       : input  : 3.3-V LVTTL       :         : 2         : N              
+wraddr[2]                    : G11       : input  : 3.3-V LVTTL       :         : 2         : N              
+GND*                         : H1        :        :                   :         : 1         :                
+GND*                         : H2        :        :                   :         : 1         :                
+GND*                         : H3        :        :                   :         : 1         :                
+GND                          : H5        : gnd    :                   :         :           :                
+GND                          : H7        : gnd    :                   :         :           :                
+GND*                         : H9        :        :                   :         : 2         :                
+GND*                         : H10       :        :                   :         : 2         :                
+dout[10]                     : H11       : output : 3.3-V LVTTL       :         : 2         : N              
+TMS                          : J1        : input  :                   :         : 1         :                
+TDI                          : J2        : input  :                   :         : 1         :                
+VCCIO1                       : J4        : power  :                   : 3.3V    : 1         :                
+din[11]                      : J5        : input  : 3.3-V LVTTL       :         : 1         : N              
+dout[6]                      : J6        : output : 3.3-V LVTTL       :         : 1         : N              
+dout[7]                      : J7        : output : 3.3-V LVTTL       :         : 1         : N              
+VCCIO1                       : J8        : power  :                   : 3.3V    : 1         :                
+wraddr[1]                    : J10       : input  : 3.3-V LVTTL       :         : 2         : N              
+GND*                         : J11       :        :                   :         : 2         :                
+TCK                          : K1        : input  :                   :         : 1         :                
+TDO                          : K2        : output :                   :         : 1         :                
+GND*                         : K3        :        :                   :         : 1         :                
+din[1]                       : K4        : input  : 3.3-V LVTTL       :         : 1         : N              
+din[4]                       : K5        : input  : 3.3-V LVTTL       :         : 1         : N              
+dout[5]                      : K6        : output : 3.3-V LVTTL       :         : 1         : N              
+dout[8]                      : K7        : output : 3.3-V LVTTL       :         : 1         : N              
+dout[12]                     : K8        : output : 3.3-V LVTTL       :         : 1         : N              
+dout[13]                     : K9        : output : 3.3-V LVTTL       :         : 1         : N              
+GND*                         : K10       :        :                   :         : 1         :                
+GND*                         : K11       :        :                   :         : 2         :                
+GND*                         : L1        :        :                   :         : 1         :                
+GND*                         : L2        :        :                   :         : 1         :                
+GND*                         : L3        :        :                   :         : 1         :                
+din[5]                       : L4        : input  : 3.3-V LVTTL       :         : 1         : N              
+din[6]                       : L5        : input  : 3.3-V LVTTL       :         : 1         : N              
+GND*                         : L6        :        :                   :         : 1         :                
+rd                           : L7        : input  : 3.3-V LVTTL       :         : 1         : N              
+dout[15]                     : L8        : output : 3.3-V LVTTL       :         : 1         : N              
+dout[11]                     : L9        : output : 3.3-V LVTTL       :         : 1         : N              
+GND*                         : L10       :        :                   :         : 1         :                
+GND*                         : L11       :        :                   :         : 1         :                

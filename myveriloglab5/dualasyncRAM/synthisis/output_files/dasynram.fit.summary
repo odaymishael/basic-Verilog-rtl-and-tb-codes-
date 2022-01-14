@@ -1,0 +1,11 @@
+Fitter Status : Successful - Sat Nov 27 16:00:26 2021
+Quartus Prime Version : 17.1.0 Build 590 10/25/2017 SJ Lite Edition
+Revision Name : dasynram
+Top-level Entity Name : dasynram
+Family : MAX V
+Device : 5M240ZM100C4
+Timing Models : Final
+Total logic elements : 152 / 240 ( 63 % )
+Total pins : 43 / 79 ( 54 % )
+Total virtual pins : 0
+UFM blocks : 0 / 1 ( 0 % )

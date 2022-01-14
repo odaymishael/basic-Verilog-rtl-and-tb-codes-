@@ -1,0 +1,7 @@
+|bidi_rtl
+A <> two
+B <> one
+control => one.OE
+control => two.OE
+
+

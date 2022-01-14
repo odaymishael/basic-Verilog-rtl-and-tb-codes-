@@ -1,0 +1,52 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/masha/OneDrive/Desktop
+vvending
+Z0 !s110 1638187029
+!i10b 1
+!s100 5aA0eg=02ZV@:TH;1=fHZ2
+ISPF@^<WD;ElW>c0bSMTa63
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/masha/OneDrive/Desktop/my verilog/myveriloglab6/vending machine/simulation
+w1638187026
+8C:/Users/masha/OneDrive/Desktop/my verilog/myveriloglab6/vending machine/RTLcode/vending.v
+FC:/Users/masha/OneDrive/Desktop/my verilog/myveriloglab6/vending machine/RTLcode/vending.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1638187029.000000
+!s107 C:/Users/masha/OneDrive/Desktop/my verilog/myveriloglab6/vending machine/RTLcode/vending.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/masha/OneDrive/Desktop/my verilog/myveriloglab6/vending machine/RTLcode/vending.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+vvending_tb
+R0
+!i10b 1
+!s100 0jGnAnNEz]j6Ldjjfj]@Z2
+IQUC?9ZRRfiFG3GfZ947WD0
+R1
+R2
+w1638186517
+8C:/Users/masha/OneDrive/Desktop/my verilog/myveriloglab6/vending machine/testbench/vending_tb.v
+FC:/Users/masha/OneDrive/Desktop/my verilog/myveriloglab6/vending machine/testbench/vending_tb.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/masha/OneDrive/Desktop/my verilog/myveriloglab6/vending machine/testbench/vending_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/masha/OneDrive/Desktop/my verilog/myveriloglab6/vending machine/testbench/vending_tb.v|
+!i113 1
+R5
+R6

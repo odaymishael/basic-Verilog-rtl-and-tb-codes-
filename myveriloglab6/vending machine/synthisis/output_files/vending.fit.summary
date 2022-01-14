@@ -1,0 +1,11 @@
+Fitter Status : Successful - Mon Nov 29 13:59:49 2021
+Quartus Prime Version : 17.1.0 Build 590 10/25/2017 SJ Lite Edition
+Revision Name : vending
+Top-level Entity Name : vending
+Family : MAX V
+Device : 5M40ZM64C4
+Timing Models : Final
+Total logic elements : 8 / 40 ( 20 % )
+Total pins : 6 / 30 ( 20 % )
+Total virtual pins : 0
+UFM blocks : 0 / 1 ( 0 % )

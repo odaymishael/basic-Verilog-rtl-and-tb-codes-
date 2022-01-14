@@ -1,0 +1,13 @@
+{C:/Users/masha/OneDrive/Desktop/my verilog/myveriloglab1/DECODERLAB1/RTLCODE/decoder_rtl.v} {0 {vlog -work work -stats=none {C:\Users\masha\OneDrive\Desktop\my verilog\myveriloglab1\DECODERLAB1\RTLCODE\decoder_rtl.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module decoder_rtl
+** Error: (vlog-13069) C:\Users\masha\OneDrive\Desktop\my verilog\myveriloglab1\DECODERLAB1\RTLCODE\decoder_rtl.v(24): near "end": syntax error, unexpected end.
+
+} {4.0 5.0} {}} {C:/Users/masha/OneDrive/Desktop/my verilog/myveriloglab1/DECODERLAB1/testbench/module decoder_rtl_tb.v} {1 {vlog -work work -stats=none {C:\Users\masha\OneDrive\Desktop\my verilog\myveriloglab1\DECODERLAB1\testbench\module decoder_rtl_tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module decoder_rtl_tb
+
+Top level modules:
+	decoder_rtl_tb
+
+} {} {}}

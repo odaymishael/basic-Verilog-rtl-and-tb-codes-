@@ -1,0 +1,14 @@
+|Tf
+t => w1.IN1
+clk => clk.IN1
+rst => rst.IN1
+q <= df:d1.port3
+
+
+|Tf|df:d1
+d => q.DATAA
+clk => q~reg0.CLK
+rst => q.OUTPUTSELECT
+q <= q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+

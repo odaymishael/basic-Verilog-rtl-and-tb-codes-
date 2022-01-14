@@ -1,0 +1,9 @@
+|jk
+J => Mux0.IN2
+K => Mux0.IN3
+Clk => Qout~reg0.CLK
+rst => Qout.OUTPUTSELECT
+Qout <= Qout~reg0.DB_MAX_OUTPUT_PORT_TYPE
+Qbar <= Qout~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+

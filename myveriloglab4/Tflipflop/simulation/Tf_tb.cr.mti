@@ -1,0 +1,16 @@
+{C:/Users/masha/OneDrive/Desktop/my verilog/myveriloglab4/Tflipflop/RTLcode/Tf.v} {1 {vlog -work work -stats=none {C:/Users/masha/OneDrive/Desktop/my verilog/myveriloglab4/Tflipflop/RTLcode/Tf.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module df
+-- Compiling module Tf
+
+Top level modules:
+	Tf
+
+} {} {}} {C:/Users/masha/OneDrive/Desktop/my verilog/myveriloglab4/Tflipflop/testbench/Tf_tb.v} {1 {vlog -work work -stats=none {C:/Users/masha/OneDrive/Desktop/my verilog/myveriloglab4/Tflipflop/testbench/Tf_tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module Tf_tb
+
+Top level modules:
+	Tf_tb
+
+} {} {}}

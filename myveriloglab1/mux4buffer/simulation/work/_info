@@ -1,0 +1,73 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/masha/OneDrive/Desktop
+vdecoder_rtl
+Z0 !s110 1636580460
+!i10b 1
+!s100 3FhKPEObFca6:dIK;>iog1
+Ig]Y_Gg;6NHnV3YgU<3k8n3
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/masha/OneDrive/Desktop/my verilog/myveriloglab1/mux4buffer/simulation
+Z3 w1636562470
+Z4 8C:/Users/masha/OneDrive/Desktop/my verilog/myveriloglab1/mux4buffer/RTLcode/mux4buffer.v
+Z5 FC:/Users/masha/OneDrive/Desktop/my verilog/myveriloglab1/mux4buffer/RTLcode/mux4buffer.v
+L0 1
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1636580460.000000
+Z8 !s107 C:/Users/masha/OneDrive/Desktop/my verilog/myveriloglab1/mux4buffer/RTLcode/mux4buffer.v|
+Z9 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/masha/OneDrive/Desktop/my verilog/myveriloglab1/mux4buffer/RTLcode/mux4buffer.v|
+!i113 1
+Z10 o-work work
+Z11 tCvgOpt 0
+vmux4buffer
+R0
+!i10b 1
+!s100 oO@>4Ohhcd0`YEX7HldSV3
+I>GIoM4?h5=2]^o@mDggMV1
+R1
+R2
+R3
+R4
+R5
+L0 16
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+vmux4buffer_tb
+R0
+!i10b 1
+!s100 =5zT0F^]e=_k6<OXU12fn0
+I@FdVSC8SDe31^oYma^oE02
+R1
+R2
+w1636560302
+8C:/Users/masha/OneDrive/Desktop/my verilog/myveriloglab1/mux4buffer/testbench/mux4buffer_tb.v
+FC:/Users/masha/OneDrive/Desktop/my verilog/myveriloglab1/mux4buffer/testbench/mux4buffer_tb.v
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/masha/OneDrive/Desktop/my verilog/myveriloglab1/mux4buffer/testbench/mux4buffer_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/masha/OneDrive/Desktop/my verilog/myveriloglab1/mux4buffer/testbench/mux4buffer_tb.v|
+!i113 1
+R10
+R11

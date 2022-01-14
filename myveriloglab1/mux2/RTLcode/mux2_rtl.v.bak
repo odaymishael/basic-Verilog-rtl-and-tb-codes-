@@ -1,0 +1,31 @@
+
+module mux2_rtl(d,s1,Y);
+input [1:0]d ;
+input  s1;
+output reg Y;
+
+always @(*)
+begin 
+case (s1)
+1'b0 :out=d[0];
+1'b1 :out=d[1];
+
+endcase 
+end
+endmodule 
+
+/*module mux2_rtl( d0, d1, s, out);
+input wire d0, d1, s;
+output reg out;
+
+always @(d0 or d1 or s)
+begin
+
+if(s==1'b1) 
+out= d1;
+else
+out=d0;
+
+end
+
+endmodule*/

@@ -1,0 +1,52 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/masha/OneDrive/Desktop
+vdasynram
+Z0 !s110 1638020787
+!i10b 1
+!s100 ij2FR<;bh[cYFI`O_Kog31
+IEBZWJTIM=]FZoFgf3PIgB0
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/masha/OneDrive/Desktop/my verilog/myveriloglab5/dualasyncRAM/simulation
+w1638019932
+8C:/Users/masha/OneDrive/Desktop/my verilog/myveriloglab5/dualasyncRAM/RTLcode/dasynram.v
+FC:/Users/masha/OneDrive/Desktop/my verilog/myveriloglab5/dualasyncRAM/RTLcode/dasynram.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1638020786.000000
+!s107 C:/Users/masha/OneDrive/Desktop/my verilog/myveriloglab5/dualasyncRAM/RTLcode/dasynram.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/masha/OneDrive/Desktop/my verilog/myveriloglab5/dualasyncRAM/RTLcode/dasynram.v|
+!i113 1
+Z4 o-work work
+Z5 tCvgOpt 0
+vdasyram_tb
+R0
+!i10b 1
+!s100 RBhQ<4:_4gS?AA8g28^N_2
+InO@J35l<8e7fDRgTi>TG]1
+R1
+R2
+w1638020769
+8C:/Users/masha/OneDrive/Desktop/my verilog/myveriloglab5/dualasyncRAM/testbench/dasyram_tb.v
+FC:/Users/masha/OneDrive/Desktop/my verilog/myveriloglab5/dualasyncRAM/testbench/dasyram_tb.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1638020787.000000
+!s107 C:/Users/masha/OneDrive/Desktop/my verilog/myveriloglab5/dualasyncRAM/testbench/dasyram_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/masha/OneDrive/Desktop/my verilog/myveriloglab5/dualasyncRAM/testbench/dasyram_tb.v|
+!i113 1
+R4
+R5

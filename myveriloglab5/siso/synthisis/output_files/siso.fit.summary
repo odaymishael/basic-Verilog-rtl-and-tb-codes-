@@ -1,0 +1,11 @@
+Fitter Status : Successful - Sat Nov 27 17:07:59 2021
+Quartus Prime Version : 17.1.0 Build 590 10/25/2017 SJ Lite Edition
+Revision Name : siso
+Top-level Entity Name : siso
+Family : MAX V
+Device : 5M40ZM64C4
+Timing Models : Final
+Total logic elements : 4 / 40 ( 10 % )
+Total pins : 3 / 30 ( 10 % )
+Total virtual pins : 0
+UFM blocks : 0 / 1 ( 0 % )

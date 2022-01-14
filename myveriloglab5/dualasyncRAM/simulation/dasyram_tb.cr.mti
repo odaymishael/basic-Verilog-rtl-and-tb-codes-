@@ -1,0 +1,16 @@
+{C:/Users/masha/OneDrive/Desktop/my verilog/myveriloglab5/dualasyncRAM/testbench/dasyram_tb.v} {2 {vlog -work work -stats=none {C:/Users/masha/OneDrive/Desktop/my verilog/myveriloglab5/dualasyncRAM/testbench/dasyram_tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module dasyram_tb
+** Warning: C:/Users/masha/OneDrive/Desktop/my verilog/myveriloglab5/dualasyncRAM/testbench/dasyram_tb.v(57): (vlog-2643) Unterminated string literal continues onto next line.
+
+Top level modules:
+	dasyram_tb
+
+} {} {}} {C:/Users/masha/OneDrive/Desktop/my verilog/myveriloglab5/dualasyncRAM/RTLcode/dasynram.v} {1 {vlog -work work -stats=none {C:/Users/masha/OneDrive/Desktop/my verilog/myveriloglab5/dualasyncRAM/RTLcode/dasynram.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module dasynram
+
+Top level modules:
+	dasynram
+
+} {} {}}

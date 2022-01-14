@@ -1,0 +1,5 @@
+|clkbuf
+mclk => comb.DATAIN
+bclk <= comb.DB_MAX_OUTPUT_PORT_TYPE
+
+

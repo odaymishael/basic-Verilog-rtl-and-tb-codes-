@@ -1,0 +1,52 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/masha/OneDrive/Desktop
+vclkbuf
+Z0 !s110 1638093818
+!i10b 1
+!s100 aM8M06EE]zXoe88NfEM]D0
+I_XZJh>AjiZQ<=IDAX0T_I0
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/masha/OneDrive/Desktop/my verilog/myveriloglab5/clkbuffer/simulation
+w1638090449
+8C:/Users/masha/OneDrive/Desktop/my verilog/myveriloglab5/clkbuffer/RTLcode/clkbuf.v
+FC:/Users/masha/OneDrive/Desktop/my verilog/myveriloglab5/clkbuffer/RTLcode/clkbuf.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1638093818.000000
+!s107 C:/Users/masha/OneDrive/Desktop/my verilog/myveriloglab5/clkbuffer/RTLcode/clkbuf.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/masha/OneDrive/Desktop/my verilog/myveriloglab5/clkbuffer/RTLcode/clkbuf.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+vclkbuf_tb
+R0
+!i10b 1
+!s100 j][=33:gPC0fXO0@9zgfO3
+ILzTZmCo@i;9k@DTGFVBNn2
+R1
+R2
+w1638093630
+8C:/Users/masha/OneDrive/Desktop/my verilog/myveriloglab5/clkbuffer/testbench/clkbuf_tb.v
+FC:/Users/masha/OneDrive/Desktop/my verilog/myveriloglab5/clkbuffer/testbench/clkbuf_tb.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/masha/OneDrive/Desktop/my verilog/myveriloglab5/clkbuffer/testbench/clkbuf_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/masha/OneDrive/Desktop/my verilog/myveriloglab5/clkbuffer/testbench/clkbuf_tb.v|
+!i113 1
+R5
+R6

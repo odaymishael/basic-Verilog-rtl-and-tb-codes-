@@ -1,0 +1,9 @@
+|siso
+clk => innternal[0].CLK
+clk => innternal[1].CLK
+clk => innternal[2].CLK
+clk => innternal[3].CLK
+si => innternal[3].DATAIN
+sout <= innternal[0].DB_MAX_OUTPUT_PORT_TYPE
+
+

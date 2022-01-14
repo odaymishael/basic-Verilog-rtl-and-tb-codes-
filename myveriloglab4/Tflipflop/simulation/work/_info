@@ -1,0 +1,75 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/masha/OneDrive/Desktop
+vdf
+Z0 !s110 1637583442
+!i10b 1
+!s100 iI=Qb^hdoNEl>ZK?5g`f`2
+I4Q76RO24:MIJ8:l=abW4b3
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/masha/OneDrive/Desktop/my verilog/myveriloglab4/Tflipflop/simulation
+Z3 w1637582804
+Z4 8C:/Users/masha/OneDrive/Desktop/my verilog/myveriloglab4/Tflipflop/RTLcode/Tf.v
+Z5 FC:/Users/masha/OneDrive/Desktop/my verilog/myveriloglab4/Tflipflop/RTLcode/Tf.v
+L0 4
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1637583442.000000
+Z8 !s107 C:/Users/masha/OneDrive/Desktop/my verilog/myveriloglab4/Tflipflop/RTLcode/Tf.v|
+Z9 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/masha/OneDrive/Desktop/my verilog/myveriloglab4/Tflipflop/RTLcode/Tf.v|
+!i113 1
+Z10 o-work work
+Z11 tCvgOpt 0
+vTf
+R0
+!i10b 1
+!s100 <LVmf4`F1E8[Cl3@J<=XT3
+I2Oh[o3Vlf65?BeLXR8L0M2
+R1
+R2
+R3
+R4
+R5
+L0 22
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+n@tf
+vTf_tb
+R0
+!i10b 1
+!s100 hiUdFhJ<4C4GkE^Cl0h:A0
+IZcNaG4PgVo8BU_I[@Pk3=0
+R1
+R2
+w1637583440
+8C:/Users/masha/OneDrive/Desktop/my verilog/myveriloglab4/Tflipflop/testbench/Tf_tb.v
+FC:/Users/masha/OneDrive/Desktop/my verilog/myveriloglab4/Tflipflop/testbench/Tf_tb.v
+L0 2
+R6
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/masha/OneDrive/Desktop/my verilog/myveriloglab4/Tflipflop/testbench/Tf_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/masha/OneDrive/Desktop/my verilog/myveriloglab4/Tflipflop/testbench/Tf_tb.v|
+!i113 1
+R10
+R11
+n@tf_tb

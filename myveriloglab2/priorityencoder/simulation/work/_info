@@ -1,0 +1,73 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/masha/OneDrive/Desktop
+vencoder_rtl_tb
+!s110 1637132365
+!i10b 1
+!s100 7Oh2EOce`5;mZ?mL:`5m83
+Iz[eK522VL8Q]aAz00IQIY1
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+Z1 dC:/Users/masha/OneDrive/Desktop/my verilog/myveriloglab2/priorityencoder/simulation
+w1637132083
+Z2 8C:/Users/masha/OneDrive/Desktop/my verilog/myveriloglab2/priorityencoder/testbench/module encoderlab2_rtl_tb .v
+Z3 FC:/Users/masha/OneDrive/Desktop/my verilog/myveriloglab2/priorityencoder/testbench/module encoderlab2_rtl_tb .v
+L0 1
+Z4 OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1637132365.000000
+!s107 C:/Users/masha/OneDrive/Desktop/my verilog/myveriloglab2/priorityencoder/testbench/module encoderlab2_rtl_tb .v|
+Z5 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/masha/OneDrive/Desktop/my verilog/myveriloglab2/priorityencoder/testbench/module encoderlab2_rtl_tb .v|
+!i113 1
+Z6 o-work work
+Z7 tCvgOpt 0
+vencoderlab2_rtl
+Z8 !s110 1637134548
+!i10b 1
+!s100 @J[8>NzV2LE0X3Ni2R8Q72
+IVkiZzfjAT^XejEQEPVNzI1
+R0
+R1
+w1637132266
+8C:/Users/masha/OneDrive/Desktop/my verilog/myveriloglab2/priorityencoder/RTLcode/encoderlab2_rtl .v
+FC:/Users/masha/OneDrive/Desktop/my verilog/myveriloglab2/priorityencoder/RTLcode/encoderlab2_rtl .v
+L0 1
+R4
+r1
+!s85 0
+31
+Z9 !s108 1637134548.000000
+!s107 C:/Users/masha/OneDrive/Desktop/my verilog/myveriloglab2/priorityencoder/RTLcode/encoderlab2_rtl .v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/masha/OneDrive/Desktop/my verilog/myveriloglab2/priorityencoder/RTLcode/encoderlab2_rtl .v|
+!i113 1
+R6
+R7
+vencoderlab2_rtl_tb
+R8
+!i10b 1
+!s100 GUZKi3Ff5b=nEij4^OT3>2
+I@X737<>Seid:>fYiBh@0G1
+R0
+R1
+w1637134545
+R2
+R3
+L0 2
+R4
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/masha/OneDrive/Desktop/my verilog/myveriloglab2/priorityencoder/testbench/module encoderlab2_rtl_tb .v|
+R5
+!i113 1
+R6
+R7

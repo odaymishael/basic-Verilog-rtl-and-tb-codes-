@@ -1,0 +1,11 @@
+Fitter Status : Successful - Sun Nov 28 12:07:32 2021
+Quartus Prime Version : 17.1.0 Build 590 10/25/2017 SJ Lite Edition
+Revision Name : clkbuf
+Top-level Entity Name : clkbuf
+Family : MAX V
+Device : 5M40ZM64C4
+Timing Models : Final
+Total logic elements : 0 / 40 ( 0 % )
+Total pins : 2 / 30 ( 7 % )
+Total virtual pins : 0
+UFM blocks : 0 / 1 ( 0 % )

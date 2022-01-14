@@ -1,0 +1,15 @@
+{C:/Users/masha/OneDrive/Desktop/my verilog/myveriloglab6/vending machine/RTLcode/vending.v} {1 {vlog -work work -stats=none {C:/Users/masha/OneDrive/Desktop/my verilog/myveriloglab6/vending machine/RTLcode/vending.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module vending
+
+Top level modules:
+	vending
+
+} {} {}} {C:/Users/masha/OneDrive/Desktop/my verilog/myveriloglab6/vending machine/testbench/vending_tb.v} {1 {vlog -work work -stats=none {C:/Users/masha/OneDrive/Desktop/my verilog/myveriloglab6/vending machine/testbench/vending_tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module vending_tb
+
+Top level modules:
+	vending_tb
+
+} {} {}}

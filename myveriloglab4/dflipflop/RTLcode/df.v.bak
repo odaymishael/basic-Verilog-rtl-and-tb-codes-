@@ -1,0 +1,37 @@
+module   df(d,clk,q,qbar); 
+input  d,clk ; 
+output reg  q , qbar ;
+
+always @(posedge clk)
+   begin 
+     
+     q<=d ; 
+     qbar<= ~d; 
+     end 
+
+end 
+
+endmodule 
+
+
+/*module   df(d,clk,q,qbar,clear); 
+input clear ,d,clk ; 
+output reg  q , qbar ;
+
+always @(posedge clk)
+   begin 
+     if (clear==1'b1)
+     begin 
+     q <= 0 ; 
+     qbar <= 1 ; 
+     end 
+     
+     else
+     begin
+     q<=d ; 
+     qbar<= ~d; 
+     end 
+
+end 
+
+endmodule */

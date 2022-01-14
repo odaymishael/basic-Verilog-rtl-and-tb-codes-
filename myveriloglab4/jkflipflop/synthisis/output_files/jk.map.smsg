@@ -1,0 +1,1 @@
+Warning (10268): Verilog HDL information at jk.v(16): always construct contains both blocking and non-blocking assignments File: C:/Users/masha/OneDrive/Desktop/my verilog/myveriloglab4/jkflipflop/RTLcode/jk.v Line: 16
